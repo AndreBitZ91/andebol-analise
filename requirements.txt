@@ -1,0 +1,8 @@
+# --- Requisitos principais ---
+streamlit==1.37.0
+pandas==2.2.2
+openpyxl==3.1.5
+watchdog==4.0.1
+
+# --- Extra (boa prática para exportação e compatibilidade) ---
+xlsxwriter==3.2.0

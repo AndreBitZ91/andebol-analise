@@ -1,0 +1,20 @@
+# Python / venv
+venv/
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs / caches
+*.log
+.cache/
